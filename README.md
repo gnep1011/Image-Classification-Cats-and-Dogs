@@ -1,2 +1,8 @@
 # Image-Classification-Cats-and-Dogs
-Use CNN for image classification
+
+I built Neural Network model models to predict if the image is a cat or a dog using three techniques: ResNet, VGG16, VGG19 and stacking for Kaggle's competition. 
+
+The originial dataset is from https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/overview.
+
+
+
